@@ -5,6 +5,7 @@ var inputDisplayContent = document.querySelector('.input-group')
 var emoticons = document.querySelector('.row')
 const recButton = document.querySelector('#rec')
 var inputField = document.querySelector('input')
+
 let text
 
 // converts speech to text and displays in form
